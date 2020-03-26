@@ -1,0 +1,9 @@
+click 491 883
+sleep
+click 517 887
+paste
+enter
+click 592 935
+sleep_0.5
+click 592 935
+sleep

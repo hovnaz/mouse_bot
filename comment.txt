@@ -1,0 +1,6 @@
+click _ _
+scroll _
+enter
+sleep
+sleep_0.5
+paste
